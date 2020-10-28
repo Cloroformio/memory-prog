@@ -16,4 +16,4 @@ Commands.java       -->  Enumeration in which all the commands are registered
 [PROGRAMMING]
 ProgramBuffer.java  --> It contains the program buffer (hex codes) to be loaded into the memory
 
-__The folder "command/list" contains the code for each command
+__ The folder "command/list" contains the code for each command
