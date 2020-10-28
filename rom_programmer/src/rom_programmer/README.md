@@ -2,10 +2,10 @@
 
 Here is a list with the descriptions for each file:
 
-[STARTUP]
+ [STARTUP]
 Main.java           -->  Code that runs at the startup
 
-[HANDLERS]
+ [HANDLERS]
 Console.java        -->  It handles the command line
 SerialHandler.java  -->  It handles serial communication
 
